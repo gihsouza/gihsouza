@@ -5,8 +5,9 @@ Sou apaixonada por programação 💻
 
 ### 💬 Sobre Mim
 
-✈️ Sou estágiária na Valeverde Turismo
-<br/>🧐 Posso te ajudar com HTML, CSS, Javascript e PHP 
+- ✈️ Sou estágiária na Valeverde Turismo
+- 🧐 Posso te ajudar com HTML, CSS, Javascript e PHP 
+- 🎮 Curto tecnologia, games, animes e séries
 
 
 
