@@ -1,7 +1,11 @@
 ### Salve galera 👋
 
 Sou apaixonada por programação
-<br/>Em busca de praticar desenvolvimento Web e Mobile
+<br/>Aprendendo desenvolvimento Web e Mobile
+
+✈️ Sou estágiária na Valeverde Turismo
+<br/>🧐 Posso te ajudar com HTML, CSS, Javascript e PHP 
+
 
 
 
