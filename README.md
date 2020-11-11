@@ -1,6 +1,4 @@
-# Giovana Oliveira
-
-## Salve galera 👋
+# Salve galera, Giovana aqui 👋
 
 Sou apaixonada por programação
 <br/>Aprendendo desenvolvimento Web e Mobile
