@@ -1,5 +1,7 @@
-### Hi there 👋
+# Giovana Oliveira
 
+### Salve galera 👋
+Sou apaixonada por programação, em busca de aprender e praticar desenvolvimento Web e Mobile
 <!--
 **gihsouza/gihsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
